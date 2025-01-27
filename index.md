@@ -6,3 +6,7 @@
 int j = 1;
 System.out.println(j);
 ```
+- [x] Primer objetivo de la lista
+- [ ] Segundo objetivo de la lista
+- [ ] Tercer objetivo de la lista
+- [ ] Cuarto objetivo de la lista
